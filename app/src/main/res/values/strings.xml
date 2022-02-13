@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomTabApp</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="welcome_to_custom_world">Welcome to Custom World!</string>
+    <string name="creating_this_project_for_adding_tabs_dynamically">Creating this sample project for adding tabs dynamically.</string>
+</resources>
